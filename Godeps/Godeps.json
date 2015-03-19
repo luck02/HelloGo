@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/luck02/HelloGo",
+	"GoVersion": "go1.3.3",
+	"Deps": []
+}
